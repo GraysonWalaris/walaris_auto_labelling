@@ -46,7 +46,7 @@ https://github.com/GraysonWalaris/Data_Processing
 
 To get started, download the checkpoints for the desired model and place them in the checkpoints directory organized as shown below:
 
-![Alt text](https://github.com/GraysonWalaris/walaris_auto_labelling/ref/checkpoint_dir_setup.png?raw=true)
+![Alt text](https://github.com/GraysonWalaris/walaris_auto_labelling/blob/ref/checkpoint_dir_setup.png?raw=true)
 
 See main.py for an example script.
 
