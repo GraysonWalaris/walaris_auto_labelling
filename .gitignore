@@ -1,0 +1,7 @@
+# Grayson's Ignore
+results
+json_files
+test_results
+download.sh
+get_data_local_network.py
+get_data.py
