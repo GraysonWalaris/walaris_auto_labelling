@@ -37,9 +37,18 @@ mkdir checkpoints
 git clone https://github.com/GraysonWalaris/walaris_auto_labelling.git
 ```
 
+## In your mmdetection environment, download and install the Walaris Data_Processing repository
+
+Follow the installation instructions found here:
+https://github.com/GraysonWalaris/Data_Processing
+
 # Get started
 
-To get started, download the checkpoints for the desired model and see main.py for an example script.
+To get started, download the checkpoints for the desired model and place them in the checkpoints directory organized as shown below:
+
+![Alt text](https://github.com/GraysonWalaris/walaris_auto_labelling/ref/checkpoint_dir_setup.png?raw=true)
+
+See main.py for an example script.
 
 
 
